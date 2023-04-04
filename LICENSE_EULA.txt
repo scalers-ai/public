@@ -1,0 +1,19 @@
+Preamble: The Scalers AI License is a free, copyleft license that ensures that the user's freedoms to study, modify, and distribute the software are protected. This license is similar to the AGPL, but with additional provisions to protect the intellectual property rights of the copyright holder.
+
+Definitions: The terms "source code," "object code," "modifications," "distribute," "license," "copyright," "patent," "trademark," and "contributor" have the meanings given in the Scalers AI License.
+
+Grant of License: Subject to the terms and conditions of this license, the copyright holder hereby grants you a non-exclusive, non-transferable license to use, reproduce, modify, and distribute the source code, in both source code and object code form, solely for your internal business purposes.
+
+Restrictions: You may not distribute the source code or any modifications to the source code, in whole or in part, unless such distribution is made under the terms of this license. You may not use the source code or any modifications to the source code to develop a competing product or service.
+
+Intellectual Property Rights: The copyright holder retains all ownership rights, title, and interest in and to the source code, including any copyrights, patents, trademarks, or trade secrets. You agree to protect the copyright holder's proprietary rights in the source code, and not to disclose or use any confidential information of the copyright holder.
+
+Warranty Disclaimer: The source code is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The copyright holder shall not be liable for any damages arising from the use or inability to use the source code.
+
+Liability Limitation: In no event shall the copyright holder be liable for any direct, indirect, incidental, special, exemplary, or consequential damages, including but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption, however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of the source code, even if advised of the possibility of such damage.
+
+Termination: This license will terminate immediately upon any breach by you of the terms and conditions of this license. Upon termination, you must immediately cease all use, distribution, and modification of the source code.
+
+Governing Law: This license shall be governed by and construed in accordance with the laws of Texas, USA.
+
+Acceptance: You may not use, modify, or distribute the source code unless you agree to the terms and conditions of this license. By using, modifying, or distributing the source code, you accept and agree to be bound by the terms and conditions of this license.
